@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sdnpublishing.github.io/author-campbell-quinn-mccarthy/sitemap.xml
